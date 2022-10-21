@@ -1,0 +1,51 @@
+#header-nav {
+background-color: #999999
+}
+#nav-list{
+	background-color: #252525
+}
+.navbar-default .navbar-nav > li > p {
+  color: yellow;
+}
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 0px solid transparent;
+}
+.navbar-default {
+  background-color: #f8f8f8;
+  border-color: transparent;
+}
+.navbar-nav {
+    margin: 0px -15px;
+}
+p{
+	margin: 10px;
+	font-size: 1.4em;
+}
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 90%;
+}
+
+#chicken{
+	background-color: grey;
+}
+
+/*#section{
+	margin: 20px;
+}
+*/
+.col-xs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.row {
+    margin: 15px;
+}
